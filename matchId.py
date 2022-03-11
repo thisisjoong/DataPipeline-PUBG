@@ -1,7 +1,7 @@
 import requests
 
 url = "https://api.pubg.com/shards/steam/players?filter[playerNames]=Berynie"
-api_key = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI1YzgzYmMwMC1lNjBhLTAxMzktMjZhNi02M2UwOWQxYTU2NmEiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNjI5NzAwNTg0LCJwdWIiOiJibHVlaG9sZSIsInRpdGxlIjoicHViZyIsImFwcCI6ImFsbC1hYm91dC1iYXR0In0.WoILL4hA4cJN11gy7pomLFeGNtYdc-1Yv1V-iiK7r9Y'
+api_key = ''
 
 header = {
   "Authorization": api_key,
